@@ -1,5 +1,5 @@
 # HUST_OS_LAB
-HUST操作系统实验
+HUST操作系统实验（上传了加粗部分）
 ## 实验一
 1）用NASM编写MBR引导程序，在BOCHS虚拟机中测试。  
 2）在Linux（建议Ubuntu或银河麒麟或优麒麟）下裁剪和编译Linux内核，并启用
