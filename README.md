@@ -11,7 +11,7 @@ HUST操作系统实验（上传了加粗部分）
 加后缀，后缀是执行脚本时的日期和时分。例如：文件名“test”变成“test-
 2022-11-21-20-42”.***  
 
-[前三个子任务参考](https://zhao-zhao2001.gitee.io/)(需挂梯子）
+[前三个子任务参考](https://ziyikee-github-io.vercel.app/2021/11/25/OS%E5%AE%9E%E9%AA%8C%E6%9C%80%E7%BB%88%E7%89%88/#HUST%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E4%B8%80)(需挂梯子）
 ## 实验二
 ***1）在Linux/Windows下创建2个线程A和B，循环输出数据或字符串。  
 2）在Liunx下创建（fork）一个子进程，实验wait/exit函数***  
